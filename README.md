@@ -1,4 +1,3 @@
-
 # 🐍 Snake Game
 
 A classic Snake Game built using Python and Turtle, featuring user interactions, customizable messages, and a scoring system.
@@ -125,5 +124,5 @@ Feel free to fork and contribute to enhance the game!
 
 ## 💡 Author  
 Developed by **Guda Tharunya Varma**  
-GitHub: [https://github.com/Guda-Tharunya-Varma](https://github.com/your-username)
+GitHub: [https://github.com/Guda-Tharunya-Varma]([https://github.com/your-username](https://github.com/Guda-Tharunya-Varma))
 
